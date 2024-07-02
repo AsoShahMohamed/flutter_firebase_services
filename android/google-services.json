@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658715402627",
+    "project_id": "fullbackendfirebaseservices",
+    "storage_bucket": "fullbackendfirebaseservices.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658715402627:android:2cd2eb96d7a0d2a4c316b6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_backend_service_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_8q2qugyqo19sdRgXFTnETbZg7dcrKUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
